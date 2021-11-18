@@ -1,6 +1,7 @@
 # RunCat_for_chromium
 
 A cute running cat animation on your chromium taskbar. Based on https://github.com/Kyome22/RunCat_for_windows
+Colour matches your desktop's theme and you can change between cat and parrot by clicking the icon.
 
 # Installation
 
